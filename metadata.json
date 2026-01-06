@@ -1,0 +1,5 @@
+{
+  "name": "MerchAI Studio",
+  "description": "Design and visualize merchandise with AI. Upload logos, place them on products, generate custom mockups with Gemini 3 Pro, and edit scenes with Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
